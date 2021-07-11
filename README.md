@@ -1,4 +1,4 @@
-# [ScreenShot Bot](https://tx.me/ScreenShotTGBot)
+# [ScreenShot Bot]
 > Telegram Bot For Screenshot Generation.
 
 ## Description
@@ -7,12 +7,6 @@ An attempt to implement the screenshot generation of telegram files without down
 > Screenshot Generation with Custom Watermark---Sample Video Generation---Trim video.
 
 ## Installation Guide
-
-## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TGExplore/Screenshot-Bot/tree/Changed-to-USER-Friendly)
-
-### Watch our YouTube video for more details -
 
 ### Prerequisites
 * FFmpeg.
@@ -90,17 +84,6 @@ In bot settings.
 * `Sample Video Duration` - Sample video's duration. Any of `30s`, `60s`, `90s`, `120s`, `150s`. Defaults to `30s`.
 * `Screenshot Genetation Mode` - Either `random` or `equally spaced`. Defaults to `equally spaced`.
 
-
-## Contributions
-Contributions are welcome.
-
-## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
-
-## Thanks
-Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
-
-Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
